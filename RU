@@ -1,4 +1,4 @@
-http://icons.r.proxyloads.ru/sparta.ico;http://r.proxyloads.ru/o195;Играть в Sparta;20;
+http://icons.r.proxyloads.ru/wot.ico;http://r.proxyloads.ru/o190;Играть в World of Tanks!;18;
 http://icons.r.proxyloads.ru/PirateCode.ico;http://r.proxyloads.ru/o8;Играть в Кодекс Пирата;17;
 http://icons.r.proxyloads.ru/weapon.ico;http://r.proxyloads.ru/o149;Играть в Войны Престолов;16;
 http://icons.r.proxyloads.ru/travian2.ico;http://r.proxyloads.ru/o170;Играть в Travian;12;
